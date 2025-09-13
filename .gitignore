@@ -1,8 +1,0 @@
-# Binaries
-*.exe
-*.out
-*.test
-
-# Folders
-/bin/
-/vendor/
